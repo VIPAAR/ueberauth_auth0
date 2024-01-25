@@ -12,7 +12,7 @@ defmodule UeberauthAuth0.Mixfile do
       source_url: "https://github.com/sntran/ueberauth_auth0",
       homepage_url: "http://hexdocs.pm/ueberauth_auth0",
       package: package(),
-      elixir: "~> 1.3",
+      elixir: "~> 1.15",
       deps: deps(),
       docs: docs(),
 
